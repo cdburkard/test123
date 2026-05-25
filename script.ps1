@@ -1,1 +1,1 @@
-Write-Output "Clean"
+Write-Output "Not Clean"
