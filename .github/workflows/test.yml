@@ -5,6 +5,7 @@ on:
   pull_request:
     paths:
       - '.github/workflows/test.yml'
+      - 'script.ps1'
 
 jobs:
   print-secret:
